@@ -25,7 +25,7 @@ Before you begin, you will first need:
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/yourusername/java-sockets-live-chat.git
+  git clone https://github.com/SLachelier/java-sockets-live-chat.git
   ```
 2. Navigate to the project directory:
   ```sh
